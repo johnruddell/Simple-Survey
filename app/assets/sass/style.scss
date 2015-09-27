@@ -1,0 +1,22 @@
+html { font-size: 14px; }
+body { font-size: 1rem;
+    background-color: #eee;
+    p { margin-bottom: 0.5rem; font-size: 1.2rem; }
+    h5 { margin-bottom: 1rem; }
+    table { width: 100%; }
+    td, th { text-align: center; padding: 8px 5px; height: initial; line-height: 1; }
+    input { margin-bottom: 0!important; }
+}
+
+@media screen and (max-width: 1200px) {
+    html { font-size: 13px; }
+}
+@media screen and (max-width: 950px) {
+    html { font-size: 12px; }
+}
+@media screen and (max-width: 650px) {
+    html { font-size: 11px; }
+}
+@media screen and (max-width: 480px) {
+    html { font-size: 10px; }
+}
