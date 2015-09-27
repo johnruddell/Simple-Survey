@@ -1,4 +1,5 @@
-Welcome to my React Flux ES6 Duo web starter kit!
+Welcome to my spin on a simple survey with Reactjs and javascripts new ES6 syntax!
+to view it in action open index.html in the templates folder
 
 Folder structure
 
